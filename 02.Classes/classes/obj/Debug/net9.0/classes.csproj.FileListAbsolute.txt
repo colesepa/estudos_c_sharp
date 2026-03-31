@@ -1,0 +1,15 @@
+/home/mjsa/Github/c_sharp_estudos/02.Classes/classes/bin/Debug/net9.0/classes
+/home/mjsa/Github/c_sharp_estudos/02.Classes/classes/bin/Debug/net9.0/classes.deps.json
+/home/mjsa/Github/c_sharp_estudos/02.Classes/classes/bin/Debug/net9.0/classes.runtimeconfig.json
+/home/mjsa/Github/c_sharp_estudos/02.Classes/classes/bin/Debug/net9.0/classes.dll
+/home/mjsa/Github/c_sharp_estudos/02.Classes/classes/bin/Debug/net9.0/classes.pdb
+/home/mjsa/Github/c_sharp_estudos/02.Classes/classes/obj/Debug/net9.0/classes.GeneratedMSBuildEditorConfig.editorconfig
+/home/mjsa/Github/c_sharp_estudos/02.Classes/classes/obj/Debug/net9.0/classes.AssemblyInfoInputs.cache
+/home/mjsa/Github/c_sharp_estudos/02.Classes/classes/obj/Debug/net9.0/classes.AssemblyInfo.cs
+/home/mjsa/Github/c_sharp_estudos/02.Classes/classes/obj/Debug/net9.0/classes.csproj.CoreCompileInputs.cache
+/home/mjsa/Github/c_sharp_estudos/02.Classes/classes/obj/Debug/net9.0/classes.sourcelink.json
+/home/mjsa/Github/c_sharp_estudos/02.Classes/classes/obj/Debug/net9.0/classes.dll
+/home/mjsa/Github/c_sharp_estudos/02.Classes/classes/obj/Debug/net9.0/refint/classes.dll
+/home/mjsa/Github/c_sharp_estudos/02.Classes/classes/obj/Debug/net9.0/classes.pdb
+/home/mjsa/Github/c_sharp_estudos/02.Classes/classes/obj/Debug/net9.0/classes.genruntimeconfig.cache
+/home/mjsa/Github/c_sharp_estudos/02.Classes/classes/obj/Debug/net9.0/ref/classes.dll
