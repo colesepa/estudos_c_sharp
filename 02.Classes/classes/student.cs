@@ -1,29 +1,66 @@
-public class Student
+using System;
+using System.Globalization;
+namespace classes
 {
-    public required string Name {get; set;}
-    public required int Age {get; set;}
 
-    private readonly List<double> _grades = new();
-    public IReadOnlyList<double> Grades => _grades;
-    
-    public void AddGrade(double grade)
+    public class Enrollment
     {
-        if (grade is < 0 or > 100)
-            throw new ArgumentException("Invalids Grades!");
-        
-        _grades.Add(grade);
-    }
+        public string Course {get;}
+        public int Grade {get;}
+        public int CreditHours {get;}
 
-    public void AddGrades(IEnumerable<double> grades)
-    {
-        foreach (var grade in grades)
+        public Enrollment(string course, int creditHours, int grade)
         {
-            AddGrade(grade);
+            Course = course;
+            CreditHours = creditHours;
+            Grade = grade;
         }
     }
 
-    public string GetGradesAsStrings()
+   public class Student
     {
-        return ($"{Name}'s Grades: ({string.Join(", ", _grades)}) ");
-    }
+        public required string Name {get; set;}
+        public double FinalGpa
+        {
+            get
+            {
+                
+            int sumCredit = 0;
+            int GradeMultiplicatedeCredit = 0;
+
+            foreach(var enroll in Enrollments)
+            {
+               sumCredit += enroll.CreditHours;
+               GradeMultiplicatedeCredit += enroll.Grade * enroll.CreditHours; 
+            }
+
+            return sumCredit == 0 ? 0 : (double)GradeMultiplicatedeCredit / sumCredit; // Expressão ternária if/else
+            }
+        }
+
+        public List<Enrollment> Enrollments {get; set;} = [];
+
+        public void AddEnrollment(Enrollment enrollment)
+        {
+            Enrollments.Add(enrollment);
+        }
+        public void AddEnrollment(string course, int grade, int creditHours)
+        {
+            Enrollments.Add(new Enrollment(course, creditHours, grade));
+        }
+
+        public void ShowGlobalInfo()
+        {
+            System.Console.WriteLine($"Student: {Name}\n");
+            System.Console.WriteLine($"{"Course", -20}{"Grade", 10}{"Credit Hours", 15}");
+
+            foreach(var enroll in Enrollments)
+            {
+                System.Console.WriteLine($"{enroll.Course, -20}{enroll.Grade, 10}{enroll.CreditHours, 15}");
+            }
+            System.Console.Write($"\n{"Final GPA:", -30}");
+            System.Console.WriteLine(FinalGpa.ToString("F2", CultureInfo.InvariantCulture));
+
+        }
+    } 
 }

@@ -1,16 +1,30 @@
-﻿Student Sophia = new()
+﻿using System;
+
+namespace classes
 {
-    Name = "Sophia",
-    Age = 16
-};
+    internal class Program
+    {
+        static void Main()
+        {
+            List<Enrollment> listEnrollments = new List<Enrollment>
+            {
+                new Enrollment ("English 101", 4,3),
+                new Enrollment ("Algebra 101", 3,3),
+                new Enrollment ("Biology 101", 3,4),
+                new Enrollment ("Computer Science I", 3,4),
+                new Enrollment ("Psychology 101", 4,3),
+                
 
-Console.WriteLine($"Student`s Name: {Sophia.Name} \nStudent`s Age: {Sophia.Age}");
+            };
+            var student1 = new Student() {Name = "Matheus"};
 
-var SophiaGrades = new List<double> {93, 87, 98, 95, 100};
-
-
-Sophia.AddGrades(SophiaGrades);
-
-Console.WriteLine($"{Sophia.GetGradesAsStrings()}");
+            foreach(var enroll in listEnrollments)
+            {
+                student1.AddEnrollment(enroll);
+            }
+            student1.ShowGlobalInfo();
+        }
+    }
+}
 
 
