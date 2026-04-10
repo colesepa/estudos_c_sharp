@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vGWwnmdZYGY=",
+  "dgSpecHash": "/b3ovklPnes=",
   "success": true,
-  "projectFilePath": "/home/mjsa/Github/c_sharp_estudos/02.Classes/classes/classes.csproj",
+  "projectFilePath": "/home/mjsa/Github/c_sharp_estudos/03.Arrays/03.Arrays.csproj",
   "expectedPackageFiles": [
     "/home/mjsa/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.14/microsoft.aspnetcore.app.ref.9.0.14.nupkg.sha512"
   ],

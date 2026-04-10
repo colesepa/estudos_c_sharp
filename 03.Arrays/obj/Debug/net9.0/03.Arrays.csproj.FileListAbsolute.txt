@@ -1,0 +1,15 @@
+/home/mjsa/Github/c_sharp_estudos/03.Arrays/bin/Debug/net9.0/03.Arrays
+/home/mjsa/Github/c_sharp_estudos/03.Arrays/bin/Debug/net9.0/03.Arrays.deps.json
+/home/mjsa/Github/c_sharp_estudos/03.Arrays/bin/Debug/net9.0/03.Arrays.runtimeconfig.json
+/home/mjsa/Github/c_sharp_estudos/03.Arrays/bin/Debug/net9.0/03.Arrays.dll
+/home/mjsa/Github/c_sharp_estudos/03.Arrays/bin/Debug/net9.0/03.Arrays.pdb
+/home/mjsa/Github/c_sharp_estudos/03.Arrays/obj/Debug/net9.0/03.Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/home/mjsa/Github/c_sharp_estudos/03.Arrays/obj/Debug/net9.0/03.Arrays.AssemblyInfoInputs.cache
+/home/mjsa/Github/c_sharp_estudos/03.Arrays/obj/Debug/net9.0/03.Arrays.AssemblyInfo.cs
+/home/mjsa/Github/c_sharp_estudos/03.Arrays/obj/Debug/net9.0/03.Arrays.csproj.CoreCompileInputs.cache
+/home/mjsa/Github/c_sharp_estudos/03.Arrays/obj/Debug/net9.0/03.Arrays.sourcelink.json
+/home/mjsa/Github/c_sharp_estudos/03.Arrays/obj/Debug/net9.0/03.Arrays.dll
+/home/mjsa/Github/c_sharp_estudos/03.Arrays/obj/Debug/net9.0/refint/03.Arrays.dll
+/home/mjsa/Github/c_sharp_estudos/03.Arrays/obj/Debug/net9.0/03.Arrays.pdb
+/home/mjsa/Github/c_sharp_estudos/03.Arrays/obj/Debug/net9.0/03.Arrays.genruntimeconfig.cache
+/home/mjsa/Github/c_sharp_estudos/03.Arrays/obj/Debug/net9.0/ref/03.Arrays.dll

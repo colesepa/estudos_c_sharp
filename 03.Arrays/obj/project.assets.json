@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/mjsa/Github/c_sharp_estudos/02.Classes/classes/classes.csproj",
-      "projectName": "classes",
-      "projectPath": "/home/mjsa/Github/c_sharp_estudos/02.Classes/classes/classes.csproj",
+      "projectUniqueName": "/home/mjsa/Github/c_sharp_estudos/03.Arrays/03.Arrays.csproj",
+      "projectName": "03.Arrays",
+      "projectPath": "/home/mjsa/Github/c_sharp_estudos/03.Arrays/03.Arrays.csproj",
       "packagesPath": "/home/mjsa/.nuget/packages/",
-      "outputPath": "/home/mjsa/Github/c_sharp_estudos/02.Classes/classes/obj/",
+      "outputPath": "/home/mjsa/Github/c_sharp_estudos/03.Arrays/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/mjsa/.nuget/NuGet/NuGet.Config"
