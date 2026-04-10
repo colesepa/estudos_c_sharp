@@ -1,0 +1,15 @@
+D:\Matheus\Github\estudos_c_sharp\04.ClassLibrary\bin\Debug\net10.0\04.ClassLibrary.exe
+D:\Matheus\Github\estudos_c_sharp\04.ClassLibrary\bin\Debug\net10.0\04.ClassLibrary.deps.json
+D:\Matheus\Github\estudos_c_sharp\04.ClassLibrary\bin\Debug\net10.0\04.ClassLibrary.runtimeconfig.json
+D:\Matheus\Github\estudos_c_sharp\04.ClassLibrary\bin\Debug\net10.0\04.ClassLibrary.dll
+D:\Matheus\Github\estudos_c_sharp\04.ClassLibrary\bin\Debug\net10.0\04.ClassLibrary.pdb
+D:\Matheus\Github\estudos_c_sharp\04.ClassLibrary\obj\Debug\net10.0\04.ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Matheus\Github\estudos_c_sharp\04.ClassLibrary\obj\Debug\net10.0\04.ClassLibrary.AssemblyInfoInputs.cache
+D:\Matheus\Github\estudos_c_sharp\04.ClassLibrary\obj\Debug\net10.0\04.ClassLibrary.AssemblyInfo.cs
+D:\Matheus\Github\estudos_c_sharp\04.ClassLibrary\obj\Debug\net10.0\04.ClassLibrary.csproj.CoreCompileInputs.cache
+D:\Matheus\Github\estudos_c_sharp\04.ClassLibrary\obj\Debug\net10.0\04.ClassLibrary.sourcelink.json
+D:\Matheus\Github\estudos_c_sharp\04.ClassLibrary\obj\Debug\net10.0\04.ClassLibrary.dll
+D:\Matheus\Github\estudos_c_sharp\04.ClassLibrary\obj\Debug\net10.0\refint\04.ClassLibrary.dll
+D:\Matheus\Github\estudos_c_sharp\04.ClassLibrary\obj\Debug\net10.0\04.ClassLibrary.pdb
+D:\Matheus\Github\estudos_c_sharp\04.ClassLibrary\obj\Debug\net10.0\04.ClassLibrary.genruntimeconfig.cache
+D:\Matheus\Github\estudos_c_sharp\04.ClassLibrary\obj\Debug\net10.0\ref\04.ClassLibrary.dll
