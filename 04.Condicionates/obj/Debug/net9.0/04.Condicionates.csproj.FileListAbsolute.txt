@@ -1,0 +1,15 @@
+/home/mjsa/Github/c_sharp_estudos/04.Condicionates/bin/Debug/net9.0/04.Condicionates
+/home/mjsa/Github/c_sharp_estudos/04.Condicionates/bin/Debug/net9.0/04.Condicionates.deps.json
+/home/mjsa/Github/c_sharp_estudos/04.Condicionates/bin/Debug/net9.0/04.Condicionates.runtimeconfig.json
+/home/mjsa/Github/c_sharp_estudos/04.Condicionates/bin/Debug/net9.0/04.Condicionates.dll
+/home/mjsa/Github/c_sharp_estudos/04.Condicionates/bin/Debug/net9.0/04.Condicionates.pdb
+/home/mjsa/Github/c_sharp_estudos/04.Condicionates/obj/Debug/net9.0/04.Condicionates.GeneratedMSBuildEditorConfig.editorconfig
+/home/mjsa/Github/c_sharp_estudos/04.Condicionates/obj/Debug/net9.0/04.Condicionates.AssemblyInfoInputs.cache
+/home/mjsa/Github/c_sharp_estudos/04.Condicionates/obj/Debug/net9.0/04.Condicionates.AssemblyInfo.cs
+/home/mjsa/Github/c_sharp_estudos/04.Condicionates/obj/Debug/net9.0/04.Condicionates.csproj.CoreCompileInputs.cache
+/home/mjsa/Github/c_sharp_estudos/04.Condicionates/obj/Debug/net9.0/04.Condicionates.sourcelink.json
+/home/mjsa/Github/c_sharp_estudos/04.Condicionates/obj/Debug/net9.0/04.Condicionates.dll
+/home/mjsa/Github/c_sharp_estudos/04.Condicionates/obj/Debug/net9.0/refint/04.Condicionates.dll
+/home/mjsa/Github/c_sharp_estudos/04.Condicionates/obj/Debug/net9.0/04.Condicionates.pdb
+/home/mjsa/Github/c_sharp_estudos/04.Condicionates/obj/Debug/net9.0/04.Condicionates.genruntimeconfig.cache
+/home/mjsa/Github/c_sharp_estudos/04.Condicionates/obj/Debug/net9.0/ref/04.Condicionates.dll

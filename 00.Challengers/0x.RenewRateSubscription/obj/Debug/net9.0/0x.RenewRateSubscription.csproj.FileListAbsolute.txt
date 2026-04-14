@@ -1,0 +1,15 @@
+/home/mjsa/Github/c_sharp_estudos/00.Challengers/0x.RenewRateSubscription/obj/Debug/net9.0/0x.RenewRateSubscription.GeneratedMSBuildEditorConfig.editorconfig
+/home/mjsa/Github/c_sharp_estudos/00.Challengers/0x.RenewRateSubscription/obj/Debug/net9.0/0x.RenewRateSubscription.AssemblyInfoInputs.cache
+/home/mjsa/Github/c_sharp_estudos/00.Challengers/0x.RenewRateSubscription/obj/Debug/net9.0/0x.RenewRateSubscription.AssemblyInfo.cs
+/home/mjsa/Github/c_sharp_estudos/00.Challengers/0x.RenewRateSubscription/obj/Debug/net9.0/0x.RenewRateSubscription.csproj.CoreCompileInputs.cache
+/home/mjsa/Github/c_sharp_estudos/00.Challengers/0x.RenewRateSubscription/obj/Debug/net9.0/0x.RenewRateSubscription.sourcelink.json
+/home/mjsa/Github/c_sharp_estudos/00.Challengers/0x.RenewRateSubscription/bin/Debug/net9.0/0x.RenewRateSubscription
+/home/mjsa/Github/c_sharp_estudos/00.Challengers/0x.RenewRateSubscription/bin/Debug/net9.0/0x.RenewRateSubscription.deps.json
+/home/mjsa/Github/c_sharp_estudos/00.Challengers/0x.RenewRateSubscription/bin/Debug/net9.0/0x.RenewRateSubscription.runtimeconfig.json
+/home/mjsa/Github/c_sharp_estudos/00.Challengers/0x.RenewRateSubscription/bin/Debug/net9.0/0x.RenewRateSubscription.dll
+/home/mjsa/Github/c_sharp_estudos/00.Challengers/0x.RenewRateSubscription/bin/Debug/net9.0/0x.RenewRateSubscription.pdb
+/home/mjsa/Github/c_sharp_estudos/00.Challengers/0x.RenewRateSubscription/obj/Debug/net9.0/0x.RenewRateSubscription.dll
+/home/mjsa/Github/c_sharp_estudos/00.Challengers/0x.RenewRateSubscription/obj/Debug/net9.0/refint/0x.RenewRateSubscription.dll
+/home/mjsa/Github/c_sharp_estudos/00.Challengers/0x.RenewRateSubscription/obj/Debug/net9.0/0x.RenewRateSubscription.pdb
+/home/mjsa/Github/c_sharp_estudos/00.Challengers/0x.RenewRateSubscription/obj/Debug/net9.0/0x.RenewRateSubscription.genruntimeconfig.cache
+/home/mjsa/Github/c_sharp_estudos/00.Challengers/0x.RenewRateSubscription/obj/Debug/net9.0/ref/0x.RenewRateSubscription.dll

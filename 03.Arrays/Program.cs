@@ -12,3 +12,10 @@ foreach(var order in orderId)
 }
 
 System.Console.WriteLine(string.Join("\n", suspectOrderId));
+
+int firstValue = 600;
+int secondValue = 300;
+
+int largerValue = Math.Max(firstValue, secondValue);
+
+System.Console.WriteLine(largerValue);
